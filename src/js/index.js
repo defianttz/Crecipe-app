@@ -13,7 +13,7 @@ import Likes from './models/Likes';
 -Liked recipes
 */
 const state = {};
-window.state = state; //test
+window.state = state;
 
 //SEARCH controller
 const controlSearch = async () => {
